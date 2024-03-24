@@ -8,7 +8,7 @@ public class Ex02 {
             System.out.println("Digite a distância total percorrida (em km): ");
             double distanciaTotal = leitor.nextDouble();
 
-            System.out.print("Digite o total de combustível gasto (em litros): ");
+            System.out.println("Digite o total de combustível gasto (em litros): ");
             double combustivelGasto = leitor.nextDouble();
 
             double consumoMedio = calcularConsumoMedio(distanciaTotal, combustivelGasto);
