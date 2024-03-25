@@ -27,7 +27,7 @@ public class Ex08 {
             mencao = "Recuperação";
         }
         
-        System.out.println("\nNome do aluno: " + nome);
+        System.out.println("Nome do aluno: " + nome);
         System.out.println("Média: " + media);
         System.out.println("Menção: " + mencao);
         
