@@ -12,7 +12,7 @@ public class Ex26 {
         
         if (idade < 17 || idade > 70) {
             System.out.println("O pretendente não se enquadra em nenhuma das categorias ofertadas.");
-            return;
+            
         }
         
         System.out.println("Digite o grupo de risco do pretendente (baixo, médio, alto): ");
@@ -57,7 +57,7 @@ public class Ex26 {
             }
         }
         
-        System.out.println("\nDados do pretendente:");
+        System.out.println("Dados do pretendente:");
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade + " anos");
         System.out.println("Grupo de risco: " + grupoRisco);
