@@ -24,7 +24,8 @@ public class Programa {
         //Ex22.executar();
         //Ex23.executar();
         //Ex24.executar();
-        Ex25.executar();
+        //Ex25.executar();
+        Ex26.executar();
 
 
         
